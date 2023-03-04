@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kylie Atwood, Ehsan Popalzai, AnneClaire Stapleton and Devan Cole, CNN",
+            "title": "American held captive in Afghanistan for more than 2 years is released in prisoner swap - CNN",
+            "description": "Mark Frerichs, an American held captive in Afghanistan for more than two years, has been released in a prisoner swap, a senior Biden administration official confirmed Monday.",
+            "url": "https://www.cnn.com/2022/09/19/politics/mark-frerichs-released-afghanistan-taliban/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220401130340-mark-frerichs-proof-of-life-super-tease.jpg",
+            "publishedAt": "2022-09-19T12:09:07Z",
+            "content": "(CNN)Mark Frerichs, an American held captive in Afghanistan for more than two years, has been released in a prisoner swap, a senior Biden administration official confirmed Monday. \r\n\"Bringing Mark ho… [+2112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Tom Sykes",
+            "title": "Prince Harry and Meghan Markle Relegated to Second Row at Queen Elizabeth's Funeral - The Daily Beast",
+            "description": "On an epic day of pomp and ceremony, the royals and the world bid farewell to the queen. A note from the king on top of her coffin read, “In loving and devoted memory. Charles R.”",
+            "url": "https://www.thedailybeast.com/joe-biden-arrives-at-queen-elizabeths-funeral-in-the-beast-other-leaders-take-the-bus",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_334,w_594,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1663584794/gettyimages-1243353232-594x594_gjrnms",
+            "publishedAt": "2022-09-19T11:58:36Z",
+            "content": "Royalist is The Daily Beasts newsletter for all things royal and Royal Family. Subscribe here to get it in your inbox every Sunday.\r\nThe expectation that the British royal family would use the queens… [+7543 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe, Melissa Alonso",
+            "title": "Hurricane Fiona makes landfall in Dominican Republic as most of Puerto Rico remains without power - CNN",
+            "description": "Hurricane Fiona made landfall in the Dominican Republic early Monday after slamming Puerto Rico with heavy rain, life-threatening flooding and an islandwide power outage.",
+            "url": "https://www.cnn.com/2022/09/19/weather/hurricane-tropical-storm-fiona-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220918204610-02-hurricane-fiona-puerto-rico-yauco.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-19T11:41:00Z",
+            "content": "Editors Note: In the storms path? Bookmark CNNs lite site for fast connectivity.\r\nHurricane Fiona made landfall in the Dominican Republic early Monday after slamming Puerto Rico with heavy rain, life… [+4970 chars]"
+        }
+    ]
+}
